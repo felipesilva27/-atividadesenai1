@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formulario</title>
+    <link rel="stylesheet" href="formIcss.css" type="text/css">
+</head>
+<body>
+ <form action="" methode="post" class="modelo1">
+<section>
+<center>
+  <h1>formulario de contrato<br/></h1>
+    <span class="titulo2">preencha todos os campos. </span>
+    <br>
+    <hr>
+    <br>
+</center>
+    </h1>
+    <div class="nome">
+       <label for="rotulos">Nome: </label>    
+       <input id="nome" type="text" name="nome" placeholder="nome completo" class="nome1" />
+   </div>
+   <div class="email">
+  <label for="rotulos">email: </label>
+     <input id="email" type="email" name="email" placeholder="E-mail valido." class="email1" />
+   </div>
+   <div class="opçoes">
+    <label for="rotulos">assunto: </label>
+    <select  name="opçoes" class="assunto">
+       <option value=""></option>
+       <option value="duvidos do produto">duvidas do produto</option>    
+       <option value="atraso na entrega">Atraso na entrega</option>
+    </select>
+   </div>
+   <div class="mensagem">
+    <label for="rotulos">Mensagem: </label>
+    <textarea id="Mensagem" name="Mensagem" placeholder="Sua mensagem" class="mensagem1"></textarea>
+   </div>
+   <div>
+     <label for="rotulos">&nbsp;</label>
+     <input type="button" value="Enviar" class="botao" />
+   </div>
+ </form>
+</body>
+</html>

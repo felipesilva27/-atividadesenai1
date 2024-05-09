@@ -1,0 +1,86 @@
+div{text-align: center;
+}
+h1{
+
+padding-top: 20px; 
+margin-left: 100px;
+margin-right: 100px;
+
+}
+body{
+background-color: white;
+}
+
+label{
+text-align: left;
+}
+.modelo1{
+background-color: saddlebrown;
+}
+.nome{
+    padding: 20px 100px;    
+    border-radius: 6px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+.email{
+    padding: 20px 100px;    
+    border-radius: 6px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+.opçoes{
+    padding: 20px 100px;    
+    border-radius: 6px;
+    margin-left: 700px;
+    margin-right: 700px;
+} 
+.mensagem{
+    padding: 20px 100px;    
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-right: 720px;
+}    
+.nome1{
+padding: 10px 300px 10px 0px;
+background-color: wheat;
+}
+.email1{
+padding: 10px 300px 10px 0px;
+background-color: wheat;
+}
+.mensagem1{
+padding: 10px 300px 10px 0;
+background-color: wheat;
+}
+.botao{
+background-color: rgb(10, 10, 10);
+color: white;
+border-radius: 4px;
+margin-right: 100px;
+}
+hr{
+    padding: 2px;
+    background-color: black;
+    border: transparent;
+}
+.assunto{
+background-color: wheat;
+border-radius:  4px;
+margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

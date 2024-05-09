@@ -1,0 +1,72 @@
+.body{
+    position: absolute;
+    background-color: white;
+}
+#eixoY{
+    width: 1px;
+    height: 400px;
+    position: absolute;
+    background-color: rgb(158, 152, 152);
+    border: 2px solid;
+    top: 100px;
+    left: 100px;
+}
+#eixoX{
+    width: 500px;
+    height: 1px;
+    position: absolute;
+    background-color: rgb(158, 152, 152);
+    border: 2px solid;
+    top: 500px;
+    left: 100px;
+}
+#escola{
+    width: 41px;
+    height: 201px;
+    position: absolute;
+    background-color: rgb(249, 253, 6);
+    border: 2px solid;
+    top: 300px;
+    left: 170px
+}
+#numero{
+    flex-direction: column;
+    position: absolute;
+    top: 90px;
+    left: 75px;
+}
+#senai{
+    width: 41px;
+    height: 170px;
+    position: absolute;
+    background-color: rgb(252, 10, 10);
+    border: 2px solid;
+    top: 330px;
+    left: 300px;
+    justify-content: center;
+}
+#etec{
+    width: 41px;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(247, 142, 5);
+    border: 2px solid;
+    top: 400px;
+    left: 430px;
+    justify-content: center;
+}
+#nomeescola{
+    position: absolute;
+    top: 504px;
+    left: 172px;
+}
+#nomesenai{
+    position: absolute;
+    top: 504px;
+    left: 305px;
+}
+#nometec{
+    position: absolute;
+    top: 504px;
+    left: 439px;
+}
