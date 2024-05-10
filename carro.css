@@ -1,0 +1,110 @@
+#container{
+    width: 500px;
+    margin: 20px auto;
+}
+#carrobase{
+    width: 700px;
+    height: 180px;
+    background-color: rgb(253, 5, 5);
+    position: absolute;
+    top: 400px;
+    left: 500px;
+}
+#parachoque{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(10, 10, 10);
+    position: absolute;
+    top: 510px;
+    left: 1120px;
+}
+#escapamento{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(10, 10, 10);
+    position: absolute;
+    top: 540px;
+    left: 480px;
+}
+#farol{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(253, 228, 2);
+    position: absolute;
+    top: 430px;
+    left: 1150px;
+}
+#carrosuperior{
+    width: 300px;
+    height: 180px;
+    background-color: rgb(253, 5, 5);
+    position: absolute;
+    top: 250px;
+    left: 700px;
+}
+#janelafrente{
+  width: 0;
+  height: 0;
+  border-left:180px solid #ff0303;
+  border-right: 100px solid transparent;
+  border-top: 150px solid transparent;
+  top: 250px;
+  left: 1000px;
+  position: absolute;
+}
+#janelatras{
+    width: 0;
+  height: 0;
+  border-left:180px solid transparent;
+  border-right: 180px solid #ff0303;
+  border-top: 150px solid transparent;
+  top: 250px;
+  left: 340px;
+  position: absolute;
+}
+#vidrofrente{
+    width: 0;
+  height: 0;
+  border-left:140px solid #4ab9ec;
+  border-right: 100px solid transparent;
+  border-top: 130px solid transparent;
+  top: 260px;
+  left: 1005px;
+  position: absolute;
+}
+#vidroatras{
+    width: 0;
+  height: 0;
+  border-left:140px solid transparent;
+  border-right: 140px solid #4ab9ec;
+  border-top: 130px solid transparent;
+  top: 260px;
+  left: 415px;
+  position: absolute;
+}
+#janelacentro{
+    width: 200px;
+    height: 120px;
+    background-color: #4ab9ec;
+    position: absolute;
+    top: 260px;
+    left: 750px;
+}
+#rodafrente{
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    border-radius: 50%;
+    top: 530px;
+    left: 1000px;
+    position: absolute;
+}
+#rodaatras{
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    border-radius: 50%;
+    top: 530px;
+    left: 560px;
+    position: absolute;
+}
